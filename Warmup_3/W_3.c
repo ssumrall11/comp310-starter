@@ -10,3 +10,5 @@ int main(void){
     printf("Sum: %d\n", sum);
     printf("Average: %lf\n", avg);
 }
+
+//Got assistence for C array syntax from W3Schools: https://www.w3schools.com/c/c_arrays.php
