@@ -26,3 +26,4 @@ int main(void){
 	printf("Matrix Addition: %d\n", sum); 
         printf("Matrix Multiplication: %d\n", product);
 }
+//Special note: I used my own command line vim and gcc for this one. 
